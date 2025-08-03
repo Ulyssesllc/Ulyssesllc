@@ -8,11 +8,7 @@ Welcome to my GitHub profile!
 - 💬 Ask me about programming, tech, or anything interesting
 - 📫 How to reach me: [trannhatuy2006pbc@gmail.com]
 
-## Skills
-- Programming Languages: Python, JavaScript
-- Tools & Frameworks: React, Node.js, Django
-- Version Control: Git & GitHub
-
+## Major Fields of Interest: CV, ML/DL
 
 ## Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ulyssesllc&show_icons=true)
