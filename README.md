@@ -8,7 +8,9 @@ Welcome to my GitHub profile!
 - 💬 Ask me about programming, tech, or anything interesting
 - 📫 How to reach me: [trannhatuy2006pbc@gmail.com]
 
-## Major Fields of Interest: CV, ML/DL
+## Major Fields of Interest: 
+- CV
+- ML/DL
 
 ## Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ulyssesllc&show_icons=true)
