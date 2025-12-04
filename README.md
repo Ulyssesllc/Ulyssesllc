@@ -21,9 +21,11 @@ Welcome to my GitHub profile!
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ulyssesllc&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=7200)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ulyssesllc&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=21600)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ulyssesllc&layout=compact&langs_count=8&cache_seconds=7200)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ulyssesllc&layout=compact&langs_count=8&cache_seconds=21600)
+
+![Streak](https://streak-stats.demolab.com/?user=Ulyssesllc&theme=default&hide_border=true)
 
 ---
 *Feel free to connect or check out my repositories!*
