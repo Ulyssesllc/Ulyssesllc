@@ -25,7 +25,5 @@ Welcome to my GitHub profile!
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ulyssesllc&layout=compact&langs_count=8&cache_seconds=21600)
 
-![Streak](https://streak-stats.demolab.com/?user=Ulyssesllc&theme=default&hide_border=true)
-
 ---
 *Feel free to connect or check out my repositories!*
