@@ -16,7 +16,7 @@ Welcome to my GitHub profile!
 
 ## Skills
 
-- Programming Languages: Python, JavaScript
+- Programming Languages: Python, Java
 - Tools & Frameworks: OpenCV, PyTorch, Keras
 
 ## Stats
