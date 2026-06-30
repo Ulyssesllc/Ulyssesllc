@@ -1,29 +1,6 @@
-# Hi there 👋
+<p align="center">
 
-Welcome to my GitHub profile!
+<a href="https://github.com/Ulyssesllc?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Ulyssesllc&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="49%" alt="@Goblin's github-readme-stats"/></a>
+<a href="https://github.com/Ulyssesllc?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ulyssesllc&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="49%" alt="@Goblin's github-readme-streak-stats"/></a>
 
-## About Me
-
-- 🔭 I’m currently working on Computer Vision, Deep Learning
-- 🌱 I’m always learning new technologies
-- 💬 Ask me about programming, tech, or anything interesting
-- 📫 How to reach me: [trannhatuy2006pbc@gmail.com]
-
-## Major Fields of Interest
-
-- CV
-- ML/DL
-
-## Skills
-
-- Programming Languages: Python, Java
-- Tools & Frameworks: OpenCV, PyTorch, Keras
-
-## Stats
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ulyssesllc&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=21600)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ulyssesllc&layout=compact&langs_count=8&cache_seconds=21600)
-
----
-*Feel free to connect or check out my repositories!*
+</p>
