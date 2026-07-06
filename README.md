@@ -13,6 +13,3 @@ AI engineer, CV & ML/DL researcher<br>Phan Bội Châu Gifted High, Physics 24'<
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ulyssesllc&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Ulyssesllc&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
